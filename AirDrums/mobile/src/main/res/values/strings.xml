@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AirDrums</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="placeholder">LOADING</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test_service">TestServiceActivity</string>
+    <string name="sound_button">TEST SOUND</string>
+    <string name="locked">Locked</string>
+
+</resources>
